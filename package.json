@@ -1,0 +1,15 @@
+{
+  "name": "onnenpyora",
+  "version": "1.0.0",
+  "description": "wheel of fortune game",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matti Torvinen",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^15.2.0"
+  }
+}
